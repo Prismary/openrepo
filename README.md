@@ -1,6 +1,5 @@
 # openrepo
 
-[![license][license-img]][github] [![web][web-img]][web] [![github][github-img]][github]
 [![Build Status](https://travis-ci.com/Prismary/openrepo.svg?branch=master)](https://travis-ci.com/Prismary/openrepo)
 
 A h5ai fork for my web repositories.
