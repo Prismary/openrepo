@@ -5,10 +5,6 @@ const topbarTpl =
         `<div id="topbar">
             <div id="toolbar"></div>
             <div id="flowbar"></div>
-            <a id="backlink" href="https://larsjung.de/h5ai/" title="powered by h5ai - https://larsjung.de/h5ai/">
-                <div>powered</div>
-                <div>by h5ai</div>
-            </a>
         </div>`;
 const mainrowTpl =
         `<div id="mainrow">

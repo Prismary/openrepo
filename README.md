@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/Prismary/openrepo.svg?branch=master)](https://travis-ci.com/Prismary/openrepo)
 
-A h5ai fork for my web repositories.
+A slightly modified h5ai fork for my web repositories.
 HTTP web server index for Apache httpd, lighttpd, and nginx.
 
 * Do **not** install any files from the `src` folder, they need to be
@@ -21,4 +21,4 @@ configurations).
 > npm run build
 ~~~
 
-Refer to the [master](https://github.com/lrsjng/h5ai) branch for more info.
+Refer to the [h5ai master](https://github.com/lrsjng/h5ai) branch for more info.
